@@ -22,7 +22,7 @@
                     'width': jwidth
                 });
 
-                $respTabs.find('.resp-tabs-container > div').addClass('resp-tab-content');
+                $respTabs.find('.resp-tabs-container > .tabbed-tab').addClass('resp-tab-content');
                 jtab_options();
                 //Properties Function
                 function jtab_options() {
